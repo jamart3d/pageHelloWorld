@@ -1,0 +1,5 @@
+{
+  "name": "Hello World Live Page Tester",
+  "description": "A simple and visually appealing application to confirm that the live page is working correctly by displaying a 'Hello World' message.",
+  "requestFramePermissions": []
+}
